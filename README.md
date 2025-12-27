@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a full stack webapp that searches for shows, tracks episodes watched, and manages your watchlist.<br>I'm looking to collaborate on more advanced webapps related to creating AI models using technologies such as Pytorch and Hugging Face.<br>I'm currently learning AWS technologies and working on getting certified, as well as, learning the Springboot framework, Docker, Kubernetes, and Terraform.<br>Fun fact is that I am also passionate about project management and I'm trying to break into product management
+I'm currently working on a few Full Stack webapp projects such as a TV Show Tracker and a Travel Itinerary Generator.<br> I'm very interested in DevOps and Cloud Engineering and hoping to work more in those fields whilst also pursuing product management. 
 
 
 ## 🌐 Socials:

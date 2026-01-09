@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a few Full Stack webapp projects such as a TV Show Tracker and a Travel Itinerary Generator.<br> I'm very interested in DevOps and Cloud Engineering and hoping to work more in those fields whilst also pursuing product management. 
+I'm currently a Penultimate Student at USYD, studying Computer Science and Project Management. I am very interested in FullStack Software Development, DevOps and Cloud Infrastructure, and Product Management. I am currently building a FullStack Web Application that tracks movies and tv shows in one app whilst enabling social features such as streaks and adding reviews/friends, whilst maintaining a 2026 Internship Tracker Repository.  
 
 
 ## 🌐 Socials:

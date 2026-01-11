@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently a Penultimate Student at USYD, studying Computer Science and Project Management. I am very interested in FullStack Software Development, DevOps and Cloud Infrastructure, and Product Management. I am currently building a FullStack Web Application that tracks movies and tv shows in one app whilst enabling social features such as streaks and adding reviews/friends, whilst maintaining a 2026 Internship Tracker Repository.  
-
+I'm currently a Penultimate Student at USYD, studying Computer Science and Project Management. I am very interested in FullStack Software Development, DevOps and Cloud Infrastructure, and Product Management. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hiba-wajeeh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hibawajeehwork@gmail.com) 

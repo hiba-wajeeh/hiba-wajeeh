@@ -1,5 +1,9 @@
 # 💫 About Me:
-Building solutions to problems that actually matter ✨ <br>CS student, hackathon winner, and always shipping something new.<br>
+Hi! I'm Hiba, a Bachelor of Advanced Computing student at The University of Sydney, majoring in Computer Science and minoring in Project Management. <br>
+
+I like developing things end-to-end, from identifying the right problem, to shipping something that actually works. A few of my projects have picked up hackathon awards along the way! I previously interned as a Software Engineer at AI Squads, and volunteered as a Software Engineer at Pakistan Association Dubai. <br>
+
+On the flip side, I run marketing for Google Developer Groups USYD and the Sydney Competitive Programming Club, and tutor Python at Girls Programming Network from time to time. <br>
 
 
 ## 🌐 Socials:

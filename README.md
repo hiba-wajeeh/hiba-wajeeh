@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi! I'm Hiba, a Bachelor of Advanced Computing student at The University of Sydney, majoring in Computer Science and minoring in Project Management. <br>
 
-I like developing things end-to-end, from identifying the right problem, to shipping something that actually works. A few of my projects have picked up hackathon awards along the way! I previously interned as a Software Engineer at AI Squads, and volunteered as a Software Engineer at Pakistan Association Dubai. And, I will be interning at Citadel Securities as a Software Engineer Intern in the upcoming summer! <br>
+I like developing things end-to-end, from identifying the right problem, to shipping something that actually works. A few of my projects have picked up hackathon awards along the way! I previously interned as a Software Engineer at AI Squads, and volunteered as a Software Engineer at Pakistan Association Dubai. <br>
 
 On the flip side, I run marketing for Sydney Competitive Programming Club, used to be a marketing director at Google Developer Groups USYD, and tutor Python at Girls Programming Network from time to time. <br>
 
